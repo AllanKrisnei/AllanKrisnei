@@ -31,8 +31,6 @@ Sempre busco evoluir constantemente, aprender coisas novas e me desafiar para cr
 <p align="left">
   <!-- Adicione novas tecnologias duplicando a linha da imagem abaixo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
 ---
