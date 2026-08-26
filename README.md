@@ -31,7 +31,7 @@ Sempre busco evoluir constantemente, aprender coisas novas e me desafiar para cr
 
 ---
 
-### 🛠️ ARSENAL TÉCNICO
+### 💻 Linguagens de Programação
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
