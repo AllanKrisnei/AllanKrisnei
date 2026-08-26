@@ -35,9 +35,4 @@ Sempre busco evoluir constantemente, aprender coisas novas e me desafiar para cr
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllanKrisnei&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKrisnei&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="150" />
-</div>
