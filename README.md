@@ -1,5 +1,10 @@
-[<div align="center">
-  <h1>👋 Olá, eu sou o Allan Krisnei!</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=250&section=header&text=Ol%C3%A1,%20meu%20nome%20%C3%A9%20Allan%20Krisnei&fontSize=32&fontColor=00f5d4&animation=typing" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <p><i>Estudante de Sistemas de Informação & Apaixonado por Tecnologia</i></p>
 </div>
 
@@ -26,11 +31,19 @@ Sempre busco evoluir constantemente, aprender coisas novas e me desafiar para cr
 
 ---
 
-### 🛠️ Linguagens & Tecnologias
+### 🛠️ ARSENAL TÉCNICO
 
 <p align="left">
-  <!-- Adicione novas tecnologias duplicando a linha da imagem abaixo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
+---
 
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllanKrisnei&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKrisnei&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="150" />
+</div>
