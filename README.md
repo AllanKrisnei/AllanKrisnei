@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 Meu nome é **Allan Krisnei**, sou estudante de **Sistemas de Informação** no **Instituto Federal de Sergipe (IFS)** e apaixonado por tecnologia e jogos desde criança.
 
@@ -18,7 +18,7 @@ Sempre busco evoluir constantemente, aprender coisas novas e me desafiar para cr
 
 ---
 
-### 🌐 Conecte-se Comigo
+###  Conecte-se Comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/allan-krisnei-costa-santos-086b31401" target="_blank">
@@ -31,7 +31,7 @@ Sempre busco evoluir constantemente, aprender coisas novas e me desafiar para cr
 
 ---
 
-### 💻 Linguagens de Programação
+###  Linguagens de Programação
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
